@@ -299,7 +299,7 @@ a.menu-link { display: none; }
 .parallax{
 	height: 100vh;
 	background-color: black;
-	background: url("../images/banner.jpg");
+	background: url("../images/kid.png");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
